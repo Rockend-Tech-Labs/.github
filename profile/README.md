@@ -1,10 +1,10 @@
-# 🪨 Rockend - Tech Labs
+# 🪨 Rockend - Tech
 
-Bem-vindo ao Rockend - Tech Labs! Somos uma iniciativa de inovação focado em criar soluções tecnológicas modernas e eficientes. Nossa missão é explorar novas ideias, desenvolver projetos inovadores e contribuir para o avanço da tecnologia.
+Bem-vindo ao Rockend Tech! Somos uma iniciativa de inovação focado em criar soluções tecnológicas modernas e eficientes. Nossa missão é explorar novas ideias, desenvolver projetos inovadores e contribuir para o avanço da tecnologia.
 
 # 🪨 Sobre Nós
 
-A Rockend - Tech Labs nasceu da paixão por tecnologia e inovação. Buscamos transformar desafios em oportunidades através de pesquisa, desenvolvimento e colaboração. Trabalhamos com tecnologias de ponta para criar sistemas escaláveis, seguros e impactantes.
+A Rockend - Tech nasceu da paixão por tecnologia e inovação. Buscamos transformar desafios em oportunidades através de pesquisa, desenvolvimento e colaboração. Trabalhamos com tecnologias de ponta para criar sistemas escaláveis, seguros e impactantes.
 
 # 🪨 O Que Fazemos
 
